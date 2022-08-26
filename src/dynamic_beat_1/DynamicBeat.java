@@ -21,7 +21,7 @@ public class DynamicBeat extends JFrame{
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //게임을 종료했을때 완벽히 종료
 		setVisible(true); //게임창을 화면에 보이게 함
 		
-		introBackground = new ImageIcon(Main.class.getResource("../images/introBackground.jpg")).getImage();
+		introBackground = new ImageIcon(Main.class.getResource("../images/introBackground(Title).jpg")).getImage();
 	
 	}
 	
